@@ -1,6 +1,15 @@
 # Dynamical-Systems
 The mathematical representation of the spread of an infectious disease using differential equations.
 
+<div style="text-align: center;">
+
+![image](https://github.com/denizgulal/Dynamical-Systems/assets/91977648/bf202fce-4888-4c4e-86a8-ec7194386202)
+
+</div>
+
+
+
+
 * ### The Question Stream is
 * ### 1 
   * Setting up a system of differential equations to describe the course of S (t) and I(t).
