@@ -49,16 +49,16 @@ the dependent variables). What part of the phase space is biologically relevant?
  
 * ### 10
   Number of deaths per week during the plague epidemic in Bombay in 1906, from The Journal of Hygiene (London), Vol. 7, No. 6, Reports on Plague Investigations in India (Dec. 1907), p. 753  
-  
-                                 *  Week | Death | Week | Death | Week | Death | Week  | Death 
-                                    ---- | ----- | ---- | ----- | ---- | ----- | ----  | ----- 
-                                    1    | 8     | 7    | 51    | 13   | 442   | 25    | 106     
-                                    2    | 10    | 8    | 92    | 14   | 644   | 26    | 64    
-                                    3    | 12    | 9    | 124   | 15   | 779   | 27    | 46    
-                                    4    | 16    | 10   | 178   | 16   | 702   | 28    | 3z5    
-                                    5    | 24    | 11   | 280   | 17   | 695   | 29    | 27    
-                                    6    | 48    | 12   | 387   | 18   | 870   | 30    | 28    
-    
+  <center>
+     Week | Death | Week | Death | Week | Death | Week  | Death 
+     ---- | ----- | ---- | ----- | ---- | ----- | ----  | ----- 
+     1    | 8     | 7    | 51    | 13   | 442   | 25    | 106     
+     2    | 10    | 8    | 92    | 14   | 644   | 26    | 64    
+     3    | 12    | 9    | 124   | 15   | 779   | 27    | 46    
+     4    | 16    | 10   | 178   | 16   | 702   | 28    | 3z5    
+     5    | 24    | 11   | 280   | 17   | 695   | 29    | 27    
+     6    | 48    | 12   | 387   | 18   | 870   | 30    | 28    
+  <center>
     
 
     * Based on the previous part, determining an explicit formula for the incidence of new deaths for the approximation of the SIR model where R0 is slightly greater than 1.
