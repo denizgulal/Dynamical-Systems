@@ -50,14 +50,14 @@ the dependent variables). What part of the phase space is biologically relevant?
 * 10
  * Number of deaths per week during the plague epidemic in Bombay in 1906, from The Journal of Hygiene (London), Vol. 7, No. 6, Reports on Plague Investigations in India (Dec. 1907), p. 753
   
- *  Week | Death | Week | Death | Week | Death | Week  | Death 
-    ---- | ----- | ---- | ----- | ---- | ----- | ----  | ----- 
-    1    | 8     | 7    | 51    | 13   | 442   | 25    | 106     
-    2    | 10    | 8    | 92    | 14   | 644   | 26    | 64    
-    3    | 12    | 9    | 124   | 15   | 779   | 27    | 46    
-    4    | 16    | 10   | 178   | 16   | 702   | 28    | 35    
-    5    | 24    | 11   | 280   | 17   | 695   | 29    | 27    
-    6    | 48    | 12   | 387   | 18   | 870   | 30    | 28    
+                                 *  Week | Death | Week | Death | Week | Death | Week  | Death 
+                                    ---- | ----- | ---- | ----- | ---- | ----- | ----  | ----- 
+                                    1    | 8     | 7    | 51    | 13   | 442   | 25    | 106     
+                                    2    | 10    | 8    | 92    | 14   | 644   | 26    | 64    
+                                    3    | 12    | 9    | 124   | 15   | 779   | 27    | 46    
+                                    4    | 16    | 10   | 178   | 16   | 702   | 28    | 35    
+                                    5    | 24    | 11   | 280   | 17   | 695   | 29    | 27    
+                                    6    | 48    | 12   | 387   | 18   | 870   | 30    | 28    
     
     
 
@@ -65,9 +65,9 @@ the dependent variables). What part of the phase space is biologically relevant?
     * Determining parameter values that approximate the mortality rates of the Bombay plague as closely as possible. In particular, relating the width of the peak to the value of R0. What changes under the more realistic assumption that only part of the resistants consists of deceased individuals?
   
  *  11
-   Assume that we vaccinate a specific part of the (wholly susceptible) population beforehand.
-   * Describe how the model changes.
-   * Determine what proportion of the population must be vaccinated to ensure that the disease does not spread.
+    Assume that we vaccinate a specific part of the (wholly susceptible) population beforehand.
+    * Describe how the model changes.
+    * Determine what proportion of the population must be vaccinated to ensure that the disease does not spread.
 
 * 12
   *  Drawing up a flow diagram in which the arrows between classes of individuals represent transitions from one class to the other; include transition rates.
