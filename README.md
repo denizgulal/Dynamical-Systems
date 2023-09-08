@@ -48,7 +48,7 @@ the dependent variables). What part of the phase space is biologically relevant?
   * Showing that for R0 slightly greater than 1, the right-hand side of the differential equation may indeed be approximated as in part 9/2.
  
 * ### 10
-   * Number of deaths per week during the plague epidemic in Bombay in 1906, from The Journal of Hygiene (London), Vol. 7, No. 6, Reports on Plague Investigations in India (Dec. 1907), p. 753
+  Number of deaths per week during the plague epidemic in Bombay in 1906, from The Journal of Hygiene (London), Vol. 7, No. 6, Reports on Plague Investigations in India (Dec. 1907), p. 753  
   
                                  *  Week | Death | Week | Death | Week | Death | Week  | Death 
                                     ---- | ----- | ---- | ----- | ---- | ----- | ----  | ----- 
